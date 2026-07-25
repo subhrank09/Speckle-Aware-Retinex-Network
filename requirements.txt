@@ -1,0 +1,51 @@
+# ===========================
+# SARD-Net Requirements
+# ===========================
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Numerical Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.22.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Notebook Environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Progress Bars
+tqdm>=4.66.0
+
+# Utilities
+PyYAML>=6.0
+requests>=2.31.0
+
+# Image Quality Metrics
+lpips>=0.1.4
+
+# TensorBoard
+tensorboard>=2.15.0
+
+# Mixed Precision Training
+nvidia-ml-py3>=7.352.0
+
+# Optional (Model Summary)
+torchinfo>=1.8.0
